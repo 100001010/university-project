@@ -1,9 +1,0 @@
-題目:計算組合的值
-	給一個a跟b，計算C的a取b;
-
-sample input:
-5 3
-
-sample output:
-10
-
