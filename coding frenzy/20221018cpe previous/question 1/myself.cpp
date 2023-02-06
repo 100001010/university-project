@@ -15,5 +15,5 @@ int main()
 			else	cout<<total;
 		} while (inp>=10);
 	}
-	return 0;
+	return 1;
 }
