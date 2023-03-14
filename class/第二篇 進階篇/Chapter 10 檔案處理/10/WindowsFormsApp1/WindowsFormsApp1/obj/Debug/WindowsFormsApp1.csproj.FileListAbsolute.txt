@@ -1,0 +1,10 @@
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第二篇 進階篇\Chapter 10 檔案處理\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

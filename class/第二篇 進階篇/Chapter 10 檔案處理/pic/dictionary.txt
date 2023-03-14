@@ -1,0 +1,10 @@
+population, (n)族群
+density, (n)密度
+dispersion, (n)分散、傳播、散布
+clump, (n)叢；樹叢；矮樹叢; (vt)使成一叢
+community, (n)聚落
+book, (n)書、書本；(v)登記、預訂。
+comb, (n)梳子
+uniform, (adj)相同的、一致的; (n)制服
+random, (n) 隨機; (adj)隨便的、任意的
+biogeography, (n) 生物地理學
