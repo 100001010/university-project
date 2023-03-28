@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\ch1-1_console\obj\Debug\ch1-1_console.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ch1-1_console\obj\Debug\ch1-1_console.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\ch1-1_console\obj\Debug\ch1-1_console.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ch1-1_console\bin\Debug\ch1-1_console.exe.config
+\\Mac\Home\Desktop\ch1-1_console\bin\Debug\ch1-1_console.exe
+\\Mac\Home\Desktop\ch1-1_console\bin\Debug\ch1-1_console.pdb
+\\Mac\Home\Desktop\ch1-1_console\obj\Debug\ch1-1_console.exe
+\\Mac\Home\Desktop\ch1-1_console\obj\Debug\ch1-1_console.pdb
+Y:\ch1-1_console\obj\Debug\ch1-1_console.csproj.AssemblyReference.cache
+Y:\ch1-1_console\obj\Debug\ch1-1_console.csproj.SuggestedBindingRedirects.cache
+Y:\ch1-1_console\obj\Debug\ch1-1_console.csproj.CoreCompileInputs.cache
+Y:\ch1-1_console\obj\Debug\ch1-1_console.exe
+Y:\ch1-1_console\obj\Debug\ch1-1_console.pdb
+Y:\ch1-1_console\bin\Debug\ch1-1_console.exe.config
+Y:\ch1-1_console\bin\Debug\ch1-1_console.exe
+Y:\ch1-1_console\bin\Debug\ch1-1_console.pdb

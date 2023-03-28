@@ -1,0 +1,40 @@
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Documents\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Document\Dropbox\Doc\ebook\0.Writing Book\第一篇 基礎篇\Chapter 3 重複敘述\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
