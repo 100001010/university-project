@@ -46,3 +46,15 @@ C:\Users\eric9\Desktop\github\university-project\homework\視窗程式設計\1_�
 C:\Users\eric9\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.csproj.CoreCompileInputs.cache
 C:\Users\eric9\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.exe
 C:\Users\eric9\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.pdb
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\bin\Debug\模板.exe.config
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\bin\Debug\模板.exe
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\bin\Debug\模板.pdb
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.csproj.AssemblyReference.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.csproj.SuggestedBindingRedirects.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.AboutBox1.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.Form1.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.Properties.Resources.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.csproj.GenerateResource.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.csproj.CoreCompileInputs.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.exe
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\1_小專案\code\模板\obj\Debug\模板.pdb

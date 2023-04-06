@@ -20,3 +20,15 @@ C:\Users\eric9\Desktop\視窗澄社\week5_2\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\eric9\Desktop\視窗澄社\week5_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\eric9\Desktop\視窗澄社\week5_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\eric9\Desktop\視窗澄社\week5_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\100001010\Desktop\github\university-project\homework\視窗程式設計\week6_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
