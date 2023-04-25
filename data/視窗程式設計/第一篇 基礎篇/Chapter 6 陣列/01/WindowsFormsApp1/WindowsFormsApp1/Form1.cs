@@ -20,17 +20,17 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void TextBox1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (Char.IsDigit(e.KeyChar) || Char.IsControl(e.KeyChar))
+            private void TextBox1_KeyPress(object sender, KeyPressEventArgs e)
             {
-                e.Handled = false;
+                if (Char.IsDigit(e.KeyChar) || Char.IsControl(e.KeyChar))
+                {
+                    e.Handled = false;
+                }
+                else
+                {
+                    e.Handled = true;
+                }
             }
-            else
-            {
-                e.Handled = true;
-            }
-        }
 
         private void TextBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
