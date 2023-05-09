@@ -40,8 +40,19 @@
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
+            this.path = new System.Windows.Forms.StatusStrip();
+            this.path1 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.process = new System.Windows.Forms.ToolStripMenuItem();
+            this.轉灰階ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.平均法ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.亮度法ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.toolStrip1.SuspendLayout();
+            this.path.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -49,7 +60,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem2,
-            this.toolStripMenuItem1});
+            this.toolStripMenuItem1,
+            this.process});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
@@ -125,6 +137,10 @@
             // 
             // toolStrip1
             // 
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripButton1,
+            this.toolStripButton2,
+            this.toolStripButton3});
             this.toolStrip1.Location = new System.Drawing.Point(0, 24);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(600, 25);
@@ -135,11 +151,87 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton1.Text = "開啟舊檔";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.Enabled = false;
+            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
+            // 
+            // toolStripButton3
+            // 
+            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton3.Enabled = false;
+            this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
+            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton3.Name = "toolStripButton3";
+            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
+            // 
+            // path
+            // 
+            this.path.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.path1});
+            this.path.Location = new System.Drawing.Point(0, 338);
+            this.path.Name = "path";
+            this.path.Size = new System.Drawing.Size(600, 22);
+            this.path.TabIndex = 3;
+            // 
+            // path1
+            // 
+            this.path1.Name = "path1";
+            this.path1.Size = new System.Drawing.Size(0, 17);
+            // 
+            // process
+            // 
+            this.process.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.轉灰階ToolStripMenuItem});
+            this.process.Enabled = false;
+            this.process.Name = "process";
+            this.process.Size = new System.Drawing.Size(43, 20);
+            this.process.Text = "處理";
+            this.process.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
+            // 
+            // 轉灰階ToolStripMenuItem
+            // 
+            this.轉灰階ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.平均法ToolStripMenuItem,
+            this.亮度法ToolStripMenuItem});
+            this.轉灰階ToolStripMenuItem.Name = "轉灰階ToolStripMenuItem";
+            this.轉灰階ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.轉灰階ToolStripMenuItem.Text = "轉灰階";
+            // 
+            // 平均法ToolStripMenuItem
+            // 
+            this.平均法ToolStripMenuItem.Name = "平均法ToolStripMenuItem";
+            this.平均法ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.平均法ToolStripMenuItem.Text = "平均法";
+            // 
+            // 亮度法ToolStripMenuItem
+            // 
+            this.亮度法ToolStripMenuItem.Name = "亮度法ToolStripMenuItem";
+            this.亮度法ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.亮度法ToolStripMenuItem.Text = "亮度法";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(600, 360);
+            this.Controls.Add(this.path);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
@@ -151,6 +243,10 @@
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
+            this.path.ResumeLayout(false);
+            this.path.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -169,6 +265,15 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.ToolStripMenuItem 結束ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripButton toolStripButton2;
+        private System.Windows.Forms.ToolStripButton toolStripButton3;
+        private System.Windows.Forms.StatusStrip path;
+        private System.Windows.Forms.ToolStripStatusLabel path1;
+        private System.Windows.Forms.ToolStripMenuItem process;
+        private System.Windows.Forms.ToolStripMenuItem 轉灰階ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 平均法ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 亮度法ToolStripMenuItem;
     }
 }
 
