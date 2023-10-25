@@ -1,0 +1,12 @@
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\bin\Debug\模板.exe.config
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\bin\Debug\模板.exe
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\bin\Debug\模板.pdb
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.csproj.AssemblyReference.cache
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.csproj.SuggestedBindingRedirects.cache
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.AboutBox1.resources
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.Form1.resources
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.Properties.Resources.resources
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.csproj.GenerateResource.cache
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.csproj.CoreCompileInputs.cache
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.exe
+C:\Users\eric9\Desktop\視窗澄社\模板\模板\obj\Debug\模板.pdb
