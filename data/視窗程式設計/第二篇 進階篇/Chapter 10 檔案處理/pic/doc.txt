@@ -1,5 +1,0 @@
-Preserving user anonymity and providing three-way mutual authentication are of great importance for wireless sensor networks (WSNs) when the users are pivots,
- or when transmitted data is crucial, 
-especially in sensitive areas, such as battlefields or civic structures. 
-Although ample research has been conducted regarding this topic,
- most of it has thus far emphasized developing efficient computational authentication protocols.
