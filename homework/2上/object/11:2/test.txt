@@ -1,0 +1,3 @@
+In the previous chapter, you learned how to create and write to a file.
+
+In the following example, we use the Scanner class to read the contents of the text file we created in the previous chapter.
